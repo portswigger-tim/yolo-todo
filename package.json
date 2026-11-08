@@ -1,0 +1,13 @@
+{
+  "name": "yolo-todo",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A throwaway todo app for testing agent-wrangler-yolo end to end, including delegation.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
